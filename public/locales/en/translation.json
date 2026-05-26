@@ -1,0 +1,594 @@
+{
+  "header": {
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "about": "About us",
+      "projects": "Projects",
+      "blog": "Blog",
+      "careers": "Careers",
+      "contact": "Contact"
+    },
+    "contactUs": "Contact Us"
+  },
+  "footer": {
+    "testimonials": {
+      "title": "TESTIMONIALS",
+      "viewAll": "ALL Testimonials",
+      "item1": {
+        "title": "NEXGEN TURNED OUR BUSINESS AROUND!",
+        "text": "Their digital marketing strategies helped us reach new customers and increase our revenue by 30% within just a few months. Highly recommended!",
+        "role": "CEO of BlueBloom"
+      },
+      "item2": {
+        "title": "NEXGEN TURNED OUR BUSINESS AROUND!",
+        "text": "Their digital marketing strategies helped us reach new customers and increase our revenue by 30% within just a few months. Highly recommended!",
+        "role": "Art Director"
+      },
+      "item3": {
+        "title": "WORKING WITH NEXGEN WAS A PLEASURE.",
+        "text": "Their web design team created a stunning website that perfectly captured our brand's essence. The feedback from our customers has been overwhelmingly positive.",
+        "role": "CEO of HealthTech"
+      },
+      "item4": {
+        "title": "NEXGEN'S WEB DESIGN TEAM BROUGHT OUR VISION TO LIFE.",
+        "text": "Their responsive design ensures our website looks stunning on all devices, contributing to increased user engagement.",
+        "role": "COO of Foodie Haven"
+      }
+    },
+    "faq": {
+      "title": "FREQUENTLY ASKED QUESTIONS",
+      "viewAll": "View All",
+      "item1": {
+        "title": "How long does it take to complete a web development project?",
+        "desc": "The timeline varies depending on the project's complexity and requirements. Our team strives to deliver projects on time while maintaining the highest quality standards."
+      },
+      "item2": {
+        "title": "Can you handle large-scale mobile app development projects?",
+        "desc": "The timeline varies depending on the project's complexity and requirements. Our team strives to deliver projects on time while maintaining the highest quality standards."
+      },
+      "item3": {
+        "title": "Can you integrate third-party APIs into our mobile app?",
+        "desc": "The timeline varies depending on the project's complexity and requirements. Our team strives to deliver projects on time while maintaining the highest quality standards."
+      },
+      "item4": {
+        "title": "How do you ensure cross-platform compatibility for mobile apps?",
+        "desc": "The timeline varies depending on the project's complexity and requirements. Our team strives to deliver projects on time while maintaining the highest quality standards."
+      },
+      "item5": {
+        "title": "What is your approach to user experience (UX) design?",
+        "desc": "The timeline varies depending on the project's complexity and requirements. Our team strives to deliver projects on time while maintaining the highest quality standards."
+      }
+    },
+    "form": {
+      "title": "ASK YOUR QUESTION",
+      "nameLabel": "Name",
+      "namePlaceholder": "Enter your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Enter your email",
+      "questionLabel": "Your Question",
+      "questionPlaceholder": "Enter Your Question Here .....",
+      "button": "Send Your Message"
+    },
+    "cta": {
+      "title": "READY TO TRANSFORM YOUR DIGITAL PRESENCE?",
+      "subtitle": "Take the first step towards digital success with NexGen by your side. Our team of experts is eager to craft tailored solutions that drive growth for your business.",
+      "button": "GET IN TOUCH"
+    },
+    "footerEnd": {
+      "socials": {
+        "instagram": {
+          "title": "INSTAGRAM",
+          "desc": "Share visually appealing snippets of our projects."
+        },
+        "twitter": {
+          "title": "TWITTER",
+          "desc": "Tweet about interesting coding challenges"
+        },
+        "dribbble": {
+          "title": "DRIBBBLE",
+          "desc": "Showcase design elements of our web projects."
+        },
+        "behance": {
+          "title": "BEHANCE",
+          "desc": "Create detailed presentations for our projects."
+        }
+      },
+      "links": {
+        "home": {
+          "title": "Home",
+          "why": "Why Us",
+          "about": "About Us",
+          "testimonials": "Testimonials",
+          "faq": "FAQ's"
+        },
+        "services": {
+          "title": "Services",
+          "webDev": "Web Development",
+          "appDev": "App Development",
+          "webDesign": "Web Design",
+          "marketing": "Digital Marketing"
+        },
+        "projects": {
+          "title": "Projects",
+          "klothink": "Klothink",
+          "zenith": "Zenith",
+          "novus": "Novus",
+          "apex": "Apex"
+        },
+        "blogs": {
+          "title": "Blogs",
+          "business": "Business",
+          "design": "Design",
+          "dev": "Development",
+          "soon": "Soon"
+        }
+      },
+      "newsletter": {
+        "label": "NEWSLETTER",
+        "title": "SUBSCRIBE TO OUR NEWSLETTER",
+        "placeholder": "Enter your email"
+      },
+      "copyright": "© 2024 NextGen. All rights reserved.",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy"
+    }
+  },
+  "home": {
+    "section1": {
+      "left": {
+        "title": "DIGITAL SOLUTIONS THAT GRIVE SUCCESS",
+        "desc": "At NexGen, we believe in the transformative power of digital solutions. Our team of experts is dedicated to helping businesses like yours thrive in the fast-paced digital landscape.",
+        "start": "START A PROJECT"
+      },
+      "right": {
+        "title": "Estatein Real Estate",
+        "desc": "Web Development. "
+      }
+    },
+    "section2": {
+      "clients": {
+        "title": "CLIENTS",
+        "value": "200+"
+      },
+      "projects": {
+        "title": "PROJECTS",
+        "value": "280+"
+      },
+      "happy": {
+        "title": "HAPPY CLIENTS",
+        "value": "100%"
+      },
+      "followers": {
+        "title": "FOLLOWER",
+        "value": "420K"
+      },
+      "experience": {
+        "title": "Years Of Experience",
+        "value": "10+"
+      },
+      "knowMore": "KNOW MORE"
+    },
+    "section3": {
+      "title": "REASONS TO CHOOSE NEXGEN FOR YOUR DIGITAL JOURNEY",
+      "card1": {
+        "title": "EXPERTISE IN CUTTING-EDGE TECHNOLOGIES",
+        "desc": "NexGen ensures your projects are powered by state-of-the-art technologies, guaranteeing..."
+      },
+      "card2": {
+        "title": "PROVEN TRACK RECORD OF SUCCESS",
+        "desc": "NexGen demonstrates a consistent ability to meet and exceed client expectations, providing reliable..."
+      },
+      "card3": {
+        "title": "CLIENT-CENTRIC APPROACH",
+        "desc": "At NexGen, we prioritize understanding our clients' unique requirements, fostering..."
+      },
+      "card4": {
+        "title": "DEDICATED TEAM OF PROFESSIONALS",
+        "desc": "Our professionals bring a wealth of expertise to the table, ensuring the delivery of top-notch, scalable..."
+      },
+      "learnMore": "Learn More"
+    },
+    "section4": {
+      "title": "OUR SERVICES",
+      "card1": {
+        "title": "WEB DESIGN",
+        "desc": "Our Web Design service is all about creating visually stunning and user-friendly websites that leave a lasting.",
+        "price": "STARTS FROM $1,500"
+      },
+      "card2": {
+        "title": "Mobile App Development",
+        "desc": "With our Mobile App Development service, we harness the power of mobile technology to create cutting-edge applications .",
+        "price": "STARTS FROM $1,500"
+      },
+      "card3": {
+        "title": "Web Development",
+        "desc": "Our Web Development service is focused on turning your website into a powerful digital asset. We utilize the latest technologies and industry best practices to build websites.",
+        "price": "STARTS FROM $1,500"
+      },
+      "card4": {
+        "title": "Digital Marketing",
+        "desc": "In the digital age, marketing is a critical aspect of your business's success. Our Digital Marketing service employs data-driven strategies to enhance your brand's visibility",
+        "price": "STARTS FROM $1,500"
+      },
+      "book": "Book A Call"
+    },
+    "section5": {
+      "title": "OUR WORKS",
+      "desc": "ALL WORKS",
+      "details": "DETAILS",
+      "techUsed": "Technologies Used",
+      "team": "TEAM MEMBERS",
+      "bookCall": "BOOK A CALL",
+      "category": "Category",
+      "time": "Time Taken",
+      "card1": {
+        "title": "Zenith Fitness App",
+        "desc": "An all-in-one health and wellness app that offers personalized fitness plans, nutrition guidance",
+        "categ": "Mobile App Development",
+        "time": "6 months"
+      },
+      "card2": {
+        "title": "A-Aura Ecommerce",
+        "desc": "A complete overhaul of a corporate website to enhance its brand identity and user experience.",
+        "categ": "Web Design & Development",
+        "time": "3 months"
+      }
+    }
+  },
+  "services": {
+    "section1": {
+      "title": "OUR COMPREHENSIVE DIGITAL SOLUTIONS",
+      "desc": "At NexGen, we offer a comprehensive suite of digital solutions designed to propel your business to new heights in the digital realm. With a team of skilled professionals, cutting-edge technologies, and a passion for innovation",
+      "vlog": "VIEW BLOG",
+      "web": "WEB DEVELOPMENT"
+    },
+    "section2": {
+      "card1": "Web Design Projects",
+      "card2": "Mobile App Development Projects",
+      "card3": "Web Development Projects",
+      "card4": "Digital Marketing Projects",
+      "all": "VIEW ALL",
+      "open": "OPEN PROJECT"
+    },
+    "section3": {
+      "title": "SUCCESS STORIES",
+      "viewAll": "VIEW ALL",
+      "visitWebsite": "VISIT WEBSITE",
+      "industry": "Industry",
+      "serviceUtilized": "Service Utilized",
+      "tabs": {
+        "challenge": "CHALLENGE",
+        "solution": "SOLUTION",
+        "results": "RESULTS"
+      },
+      "card1": {
+        "company": "KLOTHINK",
+        "industryVal": "E-commerce",
+        "serviceVal": "Design & Development",
+        "challengeTitle": "CHALLENGE",
+        "challengeDesc": "Klothink needed a complete rebranding and a new digital interface to attract modern consumers and improve online sales conversion rates. Their existing platform was slow and not optimized for mobile devices.",
+        "solutionTitle": "SOLUTION",
+        "solutionDesc": "Our team conducted a thorough analysis of their target audience and business objectives. We designed a modern and intuitive website with seamless navigation and a mobile-responsive layout. Additionally, we integrated an efficient checkout process and optimized the site for search engines.",
+        "resultsTitle": "RESULTS",
+        "resultsDesc": "The new website resulted in a 40% increase in mobile conversions and a 25% increase in average session duration within the first three months of launch."
+      },
+      "card2": {
+        "company": "FITNESS TRACKER APP",
+        "industryVal": "Health & Fitness",
+        "serviceVal": "Mobile App Development",
+        "challengeTitle": "CHALLENGE",
+        "challengeDesc": "The client wanted to build a fitness tracking app that could sync in real-time across multiple devices and provide personalized plans without sacrificing speed or battery life.",
+        "solutionTitle": "SOLUTION",
+        "solutionDesc": "Leveraging our expertise in app development, we built an interactive mobile app with user-friendly features. The app allowed users to set personalized fitness goals, track their progress, and share achievements on social media platforms. Real-time data synchronization enabled users to access their data on multiple devices.",
+        "resultsTitle": "RESULTS",
+        "resultsDesc": "The app achieved a 4.8-star rating on the App Store, with over 100,000 active daily users and seamless sync performance across all major operating systems."
+      }
+    }
+  },
+  "projects": {
+    "section1": {
+      "title": "EMPOWERING YOUR DIGITAK VISION",
+      "desc": "At NexGen, we are committed to empowering your digital vision with innovative solutions tailored to your unique needs. Our team of skilled professionals, coupled with cutting-edge technologies, ensures that we deliver exceptional results that elevate your online presence."
+    },
+    "section2": {
+      "title": "KEY FEATURES OF OUR PROJECTS",
+      "card1": {
+        "title": "STRATEGIC PLANNING",
+        "desc": "Every project begins with thorough research and strategic planning to ensure a holistic understanding."
+      },
+      "card2": {
+        "title": "CUSTOMIZED SOLUTIONS",
+        "desc": "We believe in tailoring our services to suit each project's unique requirements, resulting in solutions."
+      },
+      "card3": {
+        "title": "USER-CENTRIC APPROACH",
+        "desc": "Our projects are designed with the end-user in mind, prioritizing seamless user experiences and intuitive interfaces."
+      },
+      "card4": {
+        "title": "TIMELY DELIVERY",
+        "desc": "We adhere to strict timelines and project schedules to ensure timely delivery without compromising quality."
+      }
+    }
+  },
+  "about": {
+    "section1": {
+      "title": "ELEVATING BRANDS IN THE DIGITALS AGE",
+      "card1": "CLIENTS",
+      "card2": "PROJECTS",
+      "card3": "HAPPY CLIENTS",
+      "card4": "FOLLOWER"
+    },
+    "section2": {
+      "title": "MEET THE BRILLIANR MINDS BEHIND NEXGEN",
+      "all": "ALL MEMBERS",
+      "card1": {
+        "name": "JONH SMITH",
+        "role": "Co-Founder & CEO"
+      },
+      "card2": {
+        "name": "JONH SMITH",
+        "role": "Head of Design"
+      },
+      "card3": {
+        "name": "JONH SMITH",
+        "role": "Lead Web Developer"
+      },
+      "card4": {
+        "name": "JONH SMITH",
+        "role": "Lead Backend Developer"
+      }
+    },
+    "section3": {
+      "title": "OUR ACHIEVEMENTS",
+      "card1": {
+        "date": "September 2023",
+        "title": "GLOBAL RECOGNITION FOR INNOVATION",
+        "desc": "In 2023, our digital agency gained global acclaim for innovative solutions, setting new standards in the ever-evolving digital landscape."
+      },
+      "card2": {
+        "date": "March 2019",
+        "title": "INDUSTRY LEADERSHIP ACKNOWLEDGED",
+        "desc": "Recognized as an industry leader in 2019, our agency received prestigious awards, affirming our commitment to excellence and client satisfaction."
+      },
+      "card3": {
+        "date": "August 2015",
+        "title": "EXPANSION INTO INTERNATIONAL MARKETS",
+        "desc": "Expanding horizons in 2015, our agency successfully entered international markets, establishing a global presence and serving clients on a broader scale."
+      },
+      "card4": {
+        "date": "January 2010",
+        "title": "PIONEERING THE DIGITAL FRONTIER",
+        "desc": "In 2010, our agency was born, pioneering the digital frontier and establishing core principles that have guided us through a decade of innovation."
+      }
+    },
+    "section4": {
+      "title": "AWARDS & RECOGNITIONS",
+      "card1": {
+        "dateText": "Date • October 2017",
+        "title": "DIGITAL EXCELLENCE AWARD",
+        "desc": "Recognition for outstanding contributions to the digital industry, celebrating our ability to deliver exceptional web design and development solutions that push..."
+      },
+      "card2": {
+        "dateText": "Date • March 2019",
+        "title": "TOP MOBILE APP DEVELOPMENT AGENCY",
+        "desc": "Recognized as a top mobile app development agency by industry experts, highlighting our proficiency in delivering seamless and user-centric mobile applications."
+      },
+      "card3": {
+        "dateText": "Date • July 2022",
+        "title": "BEST DIGITAL MARKETING CAMPAIGN",
+        "desc": "Awarded for an exceptional digital marketing campaign with outstanding results, showcasing our data-driven strategies and targeted marketing efforts that achieved remarkable..."
+      },
+      "card4": {
+        "dateText": "Date • November 2024",
+        "title": "INNOVATIVE TECH STARTUP AWARD",
+        "desc": "Recognition of our pioneering efforts as a technology startup, acknowledging our commitment to exploring and implementing cutting-edge technologies to drive..."
+      }
+    }
+  },
+  "careers": {
+    "section1": {
+      "title": "UNLOCK YOUR POTENTIAL IN THE DIGITAL WORLD",
+      "start": "START A PROJECT",
+      "right": {
+        "title": "AT NEXGEN",
+        "desc": "We believe in fostering a dynamic and collaborative work environment that empowers our team members to excel in their respective fields. Join us to be part of a passionate and innovative team dedicated to crafting exceptional digital solutions for clients across the globe. We are committed to nurturing talent, encouraging professional growth, and creating a workplace where creativity thrives.",
+        "knowMore": "KNOW MORE"
+      }
+    },
+    "section2": {
+      "title": "JOIN OUR TEAM AT NEXGEN",
+      "skillsLabel": "SKILLS",
+      "applyNow": "APPLY NOW",
+      "viewDetails": "VIEW DETAILS",
+      "card1": {
+        "title": "WEB DESIGNER",
+        "salaryLabel": "Salary",
+        "salaryValue": "$45,000 - $60,000 per year",
+        "expLabel": "Experience",
+        "expValue": "1+ year",
+        "deadlineLabel": "Deadline",
+        "deadlineValue": "30/09/2025",
+        "skills": "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, etc.), strong understanding of UI/UX design principles, responsive design expertise."
+      },
+      "card2": {
+        "title": "MOBILE APP DEVELOPER",
+        "salaryLabel": "Salary",
+        "salaryValue": "$55,000 - $75,000 per year",
+        "expLabel": "Experience",
+        "expValue": "2+ years",
+        "deadlineLabel": "Deadline",
+        "deadlineValue": "15/10/2025",
+        "skills": "Proficiency in iOS or Android development (Swift, Kotlin), knowledge of mobile app design patterns, experience with mobile testing and debugging."
+      },
+      "card3": {
+        "title": "DIGITAL MARKETING SPECIALIST",
+        "salaryLabel": "Salary",
+        "salaryValue": "$50,000 - $65,000 per year",
+        "expLabel": "Experience",
+        "expValue": "3+ years",
+        "deadlineLabel": "Deadline",
+        "deadlineValue": "20/11/2025",
+        "skills": "Proficiency in SEO, SEM, and social media marketing, experience with analytics tools (Google Analytics, etc.), content marketing expertise."
+      },
+      "card4": {
+        "title": "PROJECT MANAGER",
+        "salaryLabel": "Salary",
+        "salaryValue": "$60,000 - $80,000 per year",
+        "expLabel": "Experience",
+        "expValue": "5+ years",
+        "deadlineLabel": "Deadline",
+        "deadlineValue": "05/12/2025",
+        "skills": "Strong organizational and communication skills, ability to manage project timelines and resources, experience in Agile project management methodologies."
+      }
+    },
+    "section3": {
+      "title": "HOW TO APPLY",
+      "knowMore": "KNOW MORE",
+      "card1": {
+        "step": "Step 01",
+        "title": "EXPLORE JOB LISTINGS",
+        "desc": "Visit our website's \"Careers\" page to explore the current job listings. Review the various roles available and select the position that aligns with your skills, experience, and career aspirations."
+      },
+      "card2": {
+        "step": "Step 02",
+        "title": "REVIEW JOB DESCRIPTION",
+        "desc": "Click on the desired job title to view the detailed job description. Take your time to read through the responsibilities, requirements, and qualifications to ensure you have a clear understanding of the role."
+      },
+      "card3": {
+        "step": "Step 03",
+        "title": "PREPARE YOUR APPLICATION",
+        "desc": "Before applying, ensure you have the following ready"
+      },
+      "card4": {
+        "step": "Step 04",
+        "title": "COMPLETE THE APPLICATION",
+        "desc": "Click the \"Apply Now\" button on the job listing page to access our online application form. Fill in your personal information, contact details, and the position you are applying for."
+      },
+      "card5": {
+        "step": "Step 05",
+        "title": "UPLOAD YOUR DOCUMENTS",
+        "desc": "Attach your resume, cover letter, and portfolio (if applicable) in their respective fields on the application form."
+      },
+      "card6": {
+        "step": "Step 06",
+        "title": "SUBMIT YOUR APPLICATION",
+        "desc": "Double-check all the information you provided to ensure accuracy and completeness. Once you are satisfied with your application, click the \"Submit\" button to send it to our HR team."
+      },
+      "card7": {
+        "step": "Step 07",
+        "title": "APPLICATION REVIEW",
+        "desc": "After the application deadline, our HR team will carefully review all applications. Shortlisted candidates will be contacted for further evaluation, which may include interviews and assessments."
+      },
+      "card8": {
+        "step": "Step 08",
+        "title": "INTERVIEW PROCESS",
+        "desc": "If you are selected for an interview, we will reach out to schedule a suitable date and time. Interviews may be conducted in-person or virtually, depending on the position and your location."
+      }
+    }
+  },
+  "contact": {
+    "section1": {
+      "title": "GET IN tOUCH WITH US TODAY!",
+      "desc": "At NexGen, we value your inquiries, feedback, and collaborations. Whether you are interested in our digital services, have questions about our projects, or want to explore potential partnerships, we encourage you to reach out to our dedicated team."
+    },
+    "section2": {
+      "buttons": {
+        "b1": "PHONE NUMBER",
+        "b2": "EMAILS",
+        "b3": "OFFICE LOCATIONS"
+      },
+      "inputs": {
+        "input1": "General Inquiries",
+        "input2": "Business Collaborations",
+        "input3": "Job Opportunities"
+      },
+      "form": {
+        "firstNameLabel": "FIRST NAME",
+        "firstNamePlaceholder": "Enter First Name",
+        "lastNameLabel": "LAST NAME",
+        "lastNamePlaceholder": "Enter Last Name",
+        "emailLabel": "EMAIL",
+        "emailPlaceholder": "Enter your Email",
+        "phoneNumberLabel": "PHONE NUMBER",
+        "phoneNumberPlaceholder": "Enter Phone Number",
+        "messageLabel": "MESSAGE",
+        "messagePlaceholder": "Enter your Message",
+        "agreeText": "I agree with Terms of Use and Privacy Policy",
+        "submitButton": "SEND YOUR MESSAGE"
+      }
+    }
+  },
+  "blog":{
+    "section1":{
+      "title":"OUR BLOGS",
+      "button1":"Business",
+      "button2":"Design",
+      "button3":"Development"
+    },
+    "Author":"Author",
+    "realTime":"Read Time",
+    "Category":"Category",
+    "read":"Read Full Blog",
+    "publ":"Published Date",
+    "prod":{
+      "title":"Web Design Trends Shaping 2024",
+      "category":"Design",
+      "time":"6 Mins",
+      "author":"Laura Turner",
+      "desc":"Stay ahead of the design curve with insights into the latest web design trends. From immersive user experiences to bold color choices, explore the design elements that will dominate the digital landscape in 2023 and beyond.",
+      "date":"7th February 2023"
+    },
+    "box":{
+      "b1":{
+        "title":"Optimizing Mobile User Experience for Higher Conversions",
+        "desc":"Mobile devices dominate digital interactions, making mobile user experience crucial for conversion rates. Explore mobile design best practices..."
+      },
+      "b2":{
+        "title":"Mastering the Art of Minimalistic Design",
+        "desc":"Simplicity and elegance take center stage in minimalistic design. Learn the principles of minimalism, how to effectively communicate with fewer elements..."
+      },
+      "b3":{
+        "title":"The Psychology of Visual Design in Branding",
+        "desc":"Uncover the impact of visual elements in branding and how they influence customer perceptions and emotions. Explore color psychology, typography choices..."
+      }
+    },
+    "open":{
+      "header":{
+        "name":"Sophia Roberts",
+        "date":"25th October 2023",
+        "role":"Design",
+        "time":"5 minutes"
+      },
+      "section1":{
+        "title":"Mastering the Art of Minimalistic Design"
+      },
+      "article": {
+        "heading1": "THE ESSENCE OF MINIMALISM IN DESIGN",
+        "p1": "In the realm of design, the essence of minimalism lies in the deliberate choice to distill complexity and convey a powerful message through simplicity. It's an art form that celebrates the beauty of space, emphasizing the significance of each carefully chosen element. A minimalist design isn't about deprivation; rather, it's a conscious decision to focus on the core, allowing the audience to engage with a visual narrative that is both refined and impactful.",
+        "p2": "As we explore the essence of minimalistic design, we uncover the subtle nuances that contribute to its allure. The use of negative space, a hallmark of minimalism, creates breathing room within the composition, allowing the viewer's gaze to rest and appreciate the inherent beauty of the design. The simplicity in form and color becomes a canvas for expression, where every line and shade tells a story. By embracing minimalism, designers have the opportunity to communicate more with less, fostering a connection that transcends visual aesthetics.",
+        "p3": "At its core, minimalism in design challenges conventional notions, encouraging a shift from excess to essence. It invites both creators and consumers to engage in a thoughtful dialogue with the visual elements, promoting a sense of mindfulness and intentionality. The essence of minimalistic design, therefore, lies not just in its visual appeal but in the profound impact it has on the way we perceive and interact with the world of design.",
+        "heading2": "MINIMALISM BEYOND AESTHETICS",
+        "p4": "Beyond its visually captivating exterior, minimalism is a design philosophy that permeates every aspect of the creative process, extending its influence far beyond the surface. This philosophy becomes a lens through which designers view their craft, shaping not just what is seen but how it is experienced. The minimalist approach transcends mere aesthetics; it becomes a mindset that emphasizes clarity, functionality, and a deeper connection with the audience.",
+        "p5": "Minimalism, as a philosophy, challenges the notion that complexity is synonymous with sophistication. It prompts designers to question the necessity of each element, encouraging a meticulous evaluation of form and function. This shift in perspective extends to the user experience, where the removal of unnecessary clutter allows for a seamless and intuitive interaction. Beyond creating visually pleasing designs, the minimalist philosophy becomes a guiding force for designing experiences that are inherently user-centric.",
+        "heading3": "PRACTICAL TIPS FOR MASTERING MINIMALISTIC DESIGN",
+        "p6": "The journey to mastering minimalistic design involves a practical exploration of principles and techniques that breathe life into the philosophy. It begins with an understanding of the psychology of color in minimalism, where the strategic use of a limited color palette contributes to the overall impact of the design. The intentional choice of typography plays a pivotal role, guiding the viewer through the visual narrative with clarity and purpose.",
+        "p7": "Navigating the terrain of minimalistic design also involves a keen awareness of the power of negative space. Far from being empty, this space becomes a deliberate pause, allowing the audience to absorb and appreciate the essential elements of the composition. Striking the right balance between simplicity and sophistication is an art in itself, requiring a discerning eye and a commitment to the core principles of minimalism.",
+        "p8": "Practical tips extend beyond the theoretical, delving into the day-to-day decisions that shape a minimalist design. From the selection of imagery to the judicious use of graphic elements, each choice contributes to the overall impact. Mastery in minimalistic design is not merely about adherence to a set of rules; it's about developing an intuition that guides the creative process, ensuring that every design decision serves a purpose and contributes to the cohesive whole."
+      }
+    }
+  },
+  "swagger": {
+    "user": "Users",
+    "add": "Please add Photo",
+    "addUser": "Add User",
+    "delete": "Delete",
+    "edit": "Edit",
+    "editUser": "Edit User",
+    "chooseImages": "Choose Images",
+    "name": "Name",
+    "description": "Description",
+    "cancel": "Cancel",
+    "images": "Images"
+  }
+}
