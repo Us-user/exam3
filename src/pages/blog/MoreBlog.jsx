@@ -127,7 +127,6 @@ export default function MoreBlog() {
                 alignItems: 'flex-start'
             }}>
                 <Stack spacing={3} sx={{
-                    position: { lg: 'sticky' },
                     top: { lg: '100px' },
                     flexShrink: 0
                 }}>
@@ -147,8 +146,6 @@ export default function MoreBlog() {
                         fontSize: { xs: '20px', lg: '26px' },
                         fontWeight: '600',
                         marginBottom: '20px',
-                        textTransform: 'uppercase',
-                        lineHeight: '1.4'
                     }}>
                         {t("blog.open.article.heading1")}
                     </Typography>
@@ -167,9 +164,7 @@ export default function MoreBlog() {
                         color: '#F9EFEC',
                         fontSize: { xs: '20px', lg: '26px' },
                         fontWeight: '600',
-                        marginBottom: '20px',
-                        textTransform: 'uppercase',
-                        lineHeight: '1.4'
+                        marginBottom: '20px'
                     }}>
                         {t("blog.open.article.heading2")}
                     </Typography>
